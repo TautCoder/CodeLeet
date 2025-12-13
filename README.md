@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TautCoder/CodeLeet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TautCoder/CodeLeet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0700-search-in-a-binary-search-tree) |
@@ -64,9 +66,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TautCoder/CodeLeet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
