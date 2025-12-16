@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/TautCoder/CodeLeet/tree/master/0319-bulb-switcher) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0700-search-in-a-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/TautCoder/CodeLeet/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
