@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TautCoder/CodeLeet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -78,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/TautCoder/CodeLeet/tree/master/0319-bulb-switcher) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
