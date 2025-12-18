@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/TautCoder/CodeLeet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
+## Sliding Window
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/TautCoder/CodeLeet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Prefix Sum
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/TautCoder/CodeLeet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
