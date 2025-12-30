@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [0542-01-matrix](https://github.com/TautCoder/CodeLeet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
+| [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/TautCoder/CodeLeet/tree/master/0319-bulb-switcher) |
+| [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/TautCoder/CodeLeet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
