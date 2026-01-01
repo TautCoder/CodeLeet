@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TautCoder/CodeLeet/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TautCoder/CodeLeet/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/TautCoder/CodeLeet/tree/master/0319-bulb-switcher) |
