@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
+| [0686-repeated-string-match](https://github.com/TautCoder/CodeLeet/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
 ## Linked List
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/TautCoder/CodeLeet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TautCoder/CodeLeet/tree/master/0210-course-schedule-ii) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/TautCoder/CodeLeet/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
