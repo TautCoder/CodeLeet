@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TautCoder/CodeLeet/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/TautCoder/CodeLeet/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TautCoder/CodeLeet/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
 | [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TautCoder/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/TautCoder/CodeLeet/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
 | [0686-repeated-string-match](https://github.com/TautCoder/CodeLeet/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TautCoder/CodeLeet/tree/master/0049-group-anagrams) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TautCoder/CodeLeet/tree/master/3074-apple-redistribution-into-boxes) |
 ## Topological Sort
 |  |
