@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
+| [1266-minimum-time-visiting-all-points](https://github.com/TautCoder/CodeLeet/tree/master/1266-minimum-time-visiting-all-points) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/TautCoder/CodeLeet/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/TautCoder/CodeLeet/tree/master/0319-bulb-switcher) |
 | [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/TautCoder/CodeLeet/tree/master/1266-minimum-time-visiting-all-points) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TautCoder/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/TautCoder/CodeLeet/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
